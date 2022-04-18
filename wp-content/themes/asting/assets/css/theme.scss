@@ -1,0 +1,35 @@
+/* --------------------------------------------------------------------------
+ *  Asting Wordpress Theme - Table of Content
+
+    1.0 General
+    2.0 Typo
+    3.0 Sidebar
+    4.0 404 Page
+    5.0 List Comment
+    6.0 Blog
+    7.0 Responsive
+    8.0 menu
+    9.0 WooCommerce
+    10.0 Give
+    
+
+
+ * -------------------------------------------------------------------------- */
+
+/* Default Style */
+@import '_general';
+
+/* Import Default Menu */
+@import '_menu';
+
+/* Import Woocommerce Style */
+@import '_woo';
+
+/* Custom Style */
+@import '_custom';
+
+
+/* Give Style */
+@import '_give';
+
+

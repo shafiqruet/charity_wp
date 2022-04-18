@@ -1,0 +1,119 @@
+//css icon box
+
+.ova-icon-box {
+	cursor: pointer;
+	position: relative;
+    display: block;
+
+    .img-animation {
+    	position: absolute;
+	    bottom: 49px;
+	    left: 152px;
+
+	    img {
+	    	width: 79px;
+		    animation-name: btnIconMove;
+		    animation-iteration-count: infinite;
+		    animation-duration: 5s;
+		    animation-timing-function: linear;
+	    }
+
+	    @keyframes btnIconMove {
+		    0% {
+		        transform: rotate(0deg) translate(0px, 0px);
+		    }
+
+		    50% {
+		        transform: rotate(20deg) translate(10px, 0px);
+		    }
+
+		    100% {
+		        transform: rotate(0deg) translate(0px, 0px);
+		    }
+		}
+    }
+
+
+	.icon-box-content-video {
+		width: 105px;
+	    height: 105px;
+	    background-color: #fff;
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;
+	    border-radius: 8px;
+
+	    span {
+	    	color: #2c2734;
+			font-size: 25px;
+	    }
+
+		&:hover {
+			background-color: #ff6d12;
+		    span {
+		    	color: #fff;
+			    -webkit-transition: all 500ms ease;
+			    transition: all 500ms ease;
+		    }
+		}
+	}
+
+	.icon-box-content {
+	    width: 105px;
+	    height: 105px;
+	    background-color: #ff6d12;
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;
+	    border-radius: 8px;
+
+	    span {
+			color: #fff;
+		    font-size: 55px;
+		    text-align: center;
+		    -webkit-transition: all 500ms ease;
+	    	transition: all 500ms ease;
+		}
+
+		&:hover {
+			background-color: #fff;
+			span {
+				color: #ff6d12;
+			}
+		}
+	}
+
+	#videoModal {
+		padding-top: 80px;
+		padding-left: 20px;
+		padding-right: 20px;
+
+		.modal-dialog {
+			max-width: 800px;
+			margin: 150px auto;
+
+			.modal-body {
+				position: relative;
+				padding: 0px;
+
+				.close {
+					position: absolute;
+					right: 0;
+					top: -30px;
+					z-index: 999;
+					font-size: 25px;
+					font-weight: normal;
+					color: #fff;
+					opacity: 1;
+					-webkit-transition: all 500ms ease;
+	    			transition: all 500ms ease;
+
+					&:hover {
+						transform: scale(1.1);
+						color: #000;
+					}
+				}
+			}
+		}
+	}
+}

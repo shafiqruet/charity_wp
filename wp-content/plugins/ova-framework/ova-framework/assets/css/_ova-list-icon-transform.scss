@@ -1,0 +1,61 @@
+//Css list icon transform
+
+.ova-list-icon-transform {
+	ul {
+		margin: 0;
+
+		li {
+			list-style-type: none;
+			font-size: 20px;
+			font-weight: 500;
+			color: #2c2734;
+			display: flex;
+			align-items: flex-start;
+			border-bottom: 1px solid rgba(255, 255, 255, 0.09);
+		    padding-bottom: 54px;
+		    margin-bottom: 60px;
+
+		    &:last-child {
+		    	border-bottom: none;
+		    	padding-bottom: 0;
+		    	margin-bottom: 60px;
+		    }
+
+		    &:hover {
+			    	span {
+			    		transform: rotate(360deg);
+			    	}
+			    }
+
+			span {
+				display: inline-block;
+				font-size: 65px;
+				color: #ff9d00;
+				line-height: 65px;
+			    transition: all 500ms linear;
+			    transition-delay: 0.1s;
+			    margin-top: 10px;
+			}
+
+			.list-text {
+				margin-left: 30px;
+
+				.title {
+					margin: 0 0 22px 0;
+					font-size: 20px;
+					color: #fff;
+					font-weight: 400;
+				    line-height: 30px;
+				    margin-bottom: 22px;
+				}
+
+				.text {
+					margin: 0;
+					color: #98959c;
+					font-size: 18px;
+					font-weight: 400;
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,177 @@
+// css avatar
+
+.ova-avatar {
+	border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+	box-shadow: 0px 10px 40px 0px rgba(6, 22, 58, .1);
+	overflow: hidden;
+
+	&:hover {
+
+		.avatar-img {
+			a {
+				img {
+				    transform: scale(1.05);
+				}
+			}
+		}
+
+		.avatar-content {
+			.avatar-social {
+				opacity: 1;
+				visibility: visible;
+			}
+		}
+	}
+
+	.avatar-img {
+		a {
+			img {
+			    width: 100%;
+			    border-top-left-radius: 8px;
+			    border-top-right-radius: 8px;
+			    -webkit-transition: all .5s ease;
+			    -o-transition: all .5s ease;
+			    transition: all .5s ease;
+			    -webkit-transform: scale(1);
+			    -o-transform: scale(1);
+			    transform: scale(1);
+			}
+		}
+	}
+
+	.avatar-content {
+		padding: 25px 25px 24px;
+    	position: relative;
+    	background: #fff;
+
+    	.avatar-social {
+		    position: absolute;
+		    top: -60px;
+		    left: 50%;
+		    transform: translate(-50%,0);
+		    opacity: 0;
+		    -webkit-transition: all .5s ease;
+		    -o-transition: all .5s ease;
+		    transition: all .5s ease;
+		    visibility: hidden;
+
+		    ul {
+		    	list-style-type: none;
+			    padding: 0;
+			    display: inline-flex;
+
+			    li {
+			    	display: block;
+
+			    	&:first-child {
+			    		a {
+		    			    border-radius: 50% 0 0 50%;
+    						padding-left: 16px;
+			    		}
+			    	}
+			    	&:last-child {
+			    		a {
+		    			    border-radius: 0 50% 50% 0;
+    						padding-right: 16px;
+			    		}
+			    	}
+
+			    	a {
+		    		    padding: 3px 12px;
+    					display: block;
+    					background: #fff;
+    					color: #62718d;
+    					font-size: 16px;
+
+    					&:hover {
+    						color: #ff6d12;
+    					}
+
+    					i {
+						    
+    					}
+			    	}
+			    }
+		    }
+    	}
+
+    	.avatar-name {
+    		margin-bottom: 5px;
+    		a {
+    			font-size: 22px;
+			    line-height: 1.2;
+			    color: #2c2734;
+			    font-weight: 500;
+
+			    &:hover {
+			    	color: #ff6d12;
+			    }
+    		}
+    	}
+
+    	.avatar-job {
+    		p {
+    			margin: 0;
+    			font-size: 17px;
+			    line-height: 24px;
+			    color: #ff6d12;
+			    font-weight: 400;
+			    margin-bottom: 16px;
+
+			    &:after {
+			    	content: '';
+				    width: 40px;
+				    height: 1px;
+				    background: #e5e5e9;
+				    display: block;
+				    margin-top: 13px;
+			    }
+    		}
+    	}
+
+    	.avatar-email {
+		    margin-bottom: 10px;
+		    display: flex;
+    		align-items: center;
+
+    		i {
+    			margin-right: 8px;
+    			margin-top: 5px;
+    			font-size: 14px;
+    		}
+
+    		a {
+    			font-size: 16px;
+			    line-height: 1.2;
+			    color: #62718d;
+
+			    &:hover {
+			    	color: #ff6d12;
+			    }
+    		}
+    	}
+
+    	.avatar-phone {
+		    margin-bottom: 10px;
+		    display: flex;
+    		align-items: center;
+
+    		i {
+    			margin-right: 8px;
+    			font-size: 14px;
+			    transform: rotateY(180deg);
+    		}
+
+    		a {
+    			font-size: 16px;
+			    line-height: 1.2;
+			    color: #62718d;
+
+			    &:hover {
+			    	color: #ff6d12;
+			    }
+    		}
+    	}
+	}
+}

@@ -1,0 +1,49 @@
+<?php if ( !defined( 'ABSPATH' ) ) exit(); 
+
+	$id = get_the_id();
+?>
+<div class="ovaev-content content-grid content-up">
+	<div class="item">
+		
+		<!-- Display Highlight Date 2 -->
+		<?php do_action( 'ovaev_loop_highlight_date_2', $id ); ?>
+
+		<div class="desc desc-up">
+
+			
+			<!-- Thumbnail -->
+			<?php do_action( 'ovaev_loop_thumbnail_grid2', $id ); ?>
+
+			<div class="event_post event_post_up">
+				
+				<!-- Taxonomy Type -->
+				<?php do_action( 'ovaev_loop_type', $id ); ?>
+
+				<!-- Tille -->
+				<?php do_action( 'ovaev_loop_title', $id ); ?>
+
+				
+
+				<div class="time-event">
+					
+
+					<!-- Date -->
+					<?php do_action( 'ovaev_loop_date', $id ); ?>
+
+					
+					<!-- Tille -->
+					<?php do_action( 'ovaev_loop_venue', $id ); ?>
+
+				</div>
+				
+
+				<!-- Read More Button -->
+				<?php do_action( 'ovaev_loop_readmore_2', $id ); ?>
+
+			</div>
+
+		</div>
+
+	</div>
+</div>
+

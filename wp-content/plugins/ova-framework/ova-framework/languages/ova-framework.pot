@@ -1,0 +1,2211 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OvaTheme Framework\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-25 04:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: ova-framework"
+
+#: ova-elementor/widgets/ova-testimonial.php:100
+msgid ""
+"\"Sed ullamcorper morbi tincidunt or massa eget egestas purus. Non nisi est "
+"sit amet facilisis magna etiam.\""
+msgstr ""
+
+#: ova-elementor/widgets/ova-avatar.php:142
+#: ova-elementor/widgets/ova-avatar.php:146
+#: ova-elementor/widgets/ova-avatar.php:150
+msgid "#"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial.php:122
+msgid "- David Cooper"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial.php:117
+msgid "- Jessica Brown"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial.php:112
+msgid "- Kevin Martin"
+msgstr ""
+
+#: ova-elementor/widgets/ova_blog.php:89
+#: ova-elementor/widgets/ova_give_donations.php:65
+msgid "2 Columns"
+msgstr ""
+
+#: ova-elementor/widgets/ova_blog.php:90
+#: ova-elementor/widgets/ova_give_donations.php:66
+msgid "3 Columns"
+msgstr ""
+
+#: ova-elementor/widgets/ova_blog.php:91
+msgid "4 Columns"
+msgstr ""
+
+#: ova-elementor/widgets/ova-contact.php:100
+msgid "92 666 888 0000"
+msgstr ""
+
+#. Description of the plugin
+msgid "A plugin to create custom Post Type, Shortcode, Elementor"
+msgstr ""
+
+#: ova-elementor/widgets/ova-accordion.php:41
+#: ova-elementor/widgets/ova-accordion.php:132
+msgid "Accordion"
+msgstr ""
+
+#: ova-elementor/widgets/ova-accordion.php:66
+msgid "Accordion Items"
+msgstr ""
+
+#: inc/ova-walker-menu.php:199
+msgid "Add a menu"
+msgstr ""
+
+#: custom-post-type/hf-builder/hf-builder.php:39
+msgid "Add New Elemmentor"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:285
+#: ova-elementor/widgets/ova_give_slide2.php:100
+#: ova-elementor/widgets/ova-testimonial.php:144
+#: ova-elementor/widgets/ova_blog_slide.php:127
+#: ova-elementor/widgets/ova_give_slide.php:104
+msgid "Additional Options"
+msgstr ""
+
+#: ova-elementor/widgets/ova_contact_info.php:236
+msgid "Address"
+msgstr ""
+
+#: ova-elementor/widgets/ova-button.php:85
+msgid "After"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:505
+msgid "Align Ipad"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:529
+msgid "Align Mobile"
+msgstr ""
+
+#: ova-elementor/widgets/ova-logo.php:259
+#: ova-elementor/widgets/ova-menu.php:137
+#: ova-elementor/widgets/ova-button.php:97
+#: ova-elementor/widgets/ova_social.php:118
+#: ova-elementor/widgets/ova-icon-text.php:122
+#: ova-elementor/widgets/ova-header.php:271
+#: ova-elementor/widgets/ova-avatar.php:283
+#: ova-elementor/widgets/ova-avatar.php:361
+#: ova-elementor/widgets/ova-icon.php:73
+#: ova-elementor/widgets/ova-heading.php:142
+#: ova-elementor/widgets/ova_contact_info.php:143
+#: ova-elementor/widgets/ova-accordion.php:258
+#: ova-elementor/widgets/ova-list-icon.php:318
+#: ova-elementor/widgets/ova-counter-up.php:141
+msgid "Alignment"
+msgstr ""
+
+#: custom-post-type/hf-builder/hf-builder.php:43
+msgid "All Elemmentors"
+msgstr ""
+
+#: metabox/class-metabox.php:40
+msgid "Allow display title of page"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:625
+msgid "Allow Dropdown"
+msgstr ""
+
+#: ova-elementor/widgets/ova_menu_page.php:198
+msgid "Arrow Color"
+msgstr ""
+
+#: ova-elementor/widgets/ova_menu_page.php:209
+msgid "Arrow Color Hover"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_slide2.php:69
+#: ova-elementor/widgets/ova_blog.php:106
+#: ova-elementor/widgets/ova_blog_slide.php:91
+#: ova-elementor/widgets/ova_give_slide.php:69
+msgid "Ascending"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial.php:420
+msgid "Author Name"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:353
+#: ova-elementor/widgets/ova_give_slide2.php:138
+#: ova-elementor/widgets/ova-testimonial.php:214
+#: ova-elementor/widgets/ova_blog_slide.php:197
+#: ova-elementor/widgets/ova_give_slide.php:174
+msgid "Autoplay"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:367
+#: ova-elementor/widgets/ova_give_slide2.php:152
+#: ova-elementor/widgets/ova-testimonial.php:228
+#: ova-elementor/widgets/ova_blog_slide.php:211
+#: ova-elementor/widgets/ova_give_slide.php:188
+msgid "Autoplay Speed"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:303
+#: ova-elementor/widgets/ova-button.php:142
+#: ova-elementor/widgets/ova-button.php:253
+#: ova-elementor/widgets/ova-avatar.php:173
+#: ova-elementor/widgets/ova-icon-box.php:143
+#: ova-elementor/widgets/ova-icon-box.php:199
+#: ova-elementor/widgets/ova-accordion.php:191
+#: ova-elementor/widgets/ova-accordion.php:353
+#: ova-elementor/widgets/ova-list-icon.php:83
+#: ova-elementor/widgets/ova-list-icon.php:155
+#: ova-elementor/widgets/ova-image-box.php:76
+msgid "Background"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon.php:216
+msgid "Background "
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:800
+msgid "Background Active"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:309
+#: ova-elementor/widgets/ova-menu.php:482
+#: ova-elementor/widgets/ova-menu.php:576
+#: ova-elementor/widgets/ova_social.php:64
+#: ova-elementor/widgets/ova_social.php:284
+#: ova-elementor/widgets/ova_search_popup.php:100
+#: ova-elementor/widgets/ova_blog.php:167
+#: ova-elementor/widgets/ova_blog_slide.php:291
+msgid "Background Color"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donation.php:48
+#: ova-elementor/widgets/ova_give_slide2.php:321
+#: ova-elementor/widgets/ova_give_donations.php:133
+#: ova-elementor/widgets/ova_give_slide.php:279
+msgid "Background Color Button"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donation.php:59
+#: ova-elementor/widgets/ova_give_slide2.php:332
+#: ova-elementor/widgets/ova_give_donations.php:144
+#: ova-elementor/widgets/ova_give_slide.php:290
+msgid "Background Color Hover Button"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donation.php:198
+#: ova-elementor/widgets/ova_progress_bar.php:171
+msgid "Background Color Progress"
+msgstr ""
+
+#: ova-elementor/widgets/ova_blog.php:270
+#: ova-elementor/widgets/ova_blog_slide.php:394
+msgid "Background Color Read More "
+msgstr ""
+
+#: ova-elementor/widgets/ova_blog.php:281
+#: ova-elementor/widgets/ova_blog_slide.php:405
+msgid "Background Color Read More Hover"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:121
+msgid "Background Cover Color"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:788
+msgid "Background Hover"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-icon.php:76
+msgid "Become<br/>Volunteer"
+msgstr ""
+
+#: ova-elementor/widgets/ova-button.php:84
+msgid "Before"
+msgstr ""
+
+#: ova-elementor/widgets/ova_blog.php:20
+msgid "Blog"
+msgstr ""
+
+#: ova-elementor/widgets/ova_blog_slide.php:19
+msgid "Blog Slide"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:423
+#: ova-elementor/widgets/ova-list-icon-transform.php:102
+msgid "Border"
+msgstr ""
+
+#: ova-elementor/widgets/ova_social.php:307
+#: ova-elementor/widgets/ova_search_popup.php:152
+msgid "Border Color"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:373
+msgid "Border Menu"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:407
+msgid "Border Menu Item"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:427
+msgid "Border Menu Latest Item"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:394
+#: ova-elementor/widgets/ova-menu.php:612
+#: ova-elementor/widgets/ova_social.php:242
+msgid "Border Radius"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon.php:247
+msgid "Border radius "
+msgstr ""
+
+#: ova-elementor/widgets/ova_search_popup.php:111
+msgid "Border Style"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:437
+msgid "Border Sub-Menu Latest Item"
+msgstr ""
+
+#: ova-elementor/widgets/ova_search_popup.php:131
+msgid "Border Width"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:1048
+#: ova-elementor/widgets/ova-image-text.php:1181
+#: ova-elementor/widgets/ova-icon-box.php:319
+msgid "Bottom"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:966
+msgid "Box"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:223
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:255
+msgid "Breadcrumbs Padding"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:245
+msgid "Breadcrumbs Typo"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donation.php:42
+#: ova-elementor/widgets/ova_blog.php:66
+#: ova-elementor/widgets/ova_blog_slide.php:68
+msgid "Category"
+msgstr ""
+
+#: ova-elementor/widgets/ova-logo.php:267
+#: ova-elementor/widgets/ova-menu.php:145
+#: ova-elementor/widgets/ova-menu.php:513
+#: ova-elementor/widgets/ova-menu.php:537
+#: ova-elementor/widgets/ova-button.php:105
+#: ova-elementor/widgets/ova_social.php:126
+#: ova-elementor/widgets/ova-icon-text.php:130
+#: ova-elementor/widgets/ova-header.php:279
+#: ova-elementor/widgets/ova-avatar.php:291
+#: ova-elementor/widgets/ova-avatar.php:369
+#: ova-elementor/widgets/ova-icon.php:81
+#: ova-elementor/widgets/ova-heading.php:150
+#: ova-elementor/widgets/ova_contact_info.php:151
+#: ova-elementor/widgets/ova_blog_slide.php:236
+#: ova-elementor/widgets/ova-list-icon.php:326
+#: ova-elementor/widgets/ova_give_slide.php:213
+#: ova-elementor/widgets/ova-counter-up.php:149
+msgid "Center"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donations.php:87
+#: ova-elementor/widgets/ova_give_slide.php:91
+msgid "Character Limit"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:198
+#: ova-elementor/widgets/ova-testimonial-image.php:250
+#: ova-elementor/widgets/ova-testimonial-image.php:256
+#: ova-elementor/widgets/ova-testimonial-image.php:262
+#: ova-elementor/widgets/ova-testimonial-image.php:268
+msgid "Charity"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:177
+msgid "Choose Title Format"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial.php:113
+msgid "Citizen Of Omina"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:299
+msgid "Class"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:230
+#: ova-elementor/widgets/ova-testimonial-image.php:66
+#: ova-elementor/widgets/ova-button.php:72
+#: ova-elementor/widgets/ova-icon-text.php:88
+#: ova-elementor/widgets/ova-avatar.php:113
+#: ova-elementor/widgets/ova-list-icon-transform.php:50
+#: ova-elementor/widgets/ova-contact.php:63
+#: ova-elementor/widgets/ova-contact.php:118
+#: ova-elementor/widgets/ova-icon.php:48
+#: ova-elementor/widgets/ova-icon-box.php:49
+#: ova-elementor/widgets/ova-accordion.php:109
+#: ova-elementor/widgets/ova-list-icon.php:65
+#: ova-elementor/widgets/ova-list-icon.php:121
+#: ova-elementor/widgets/ova-image-icon.php:50
+#: ova-elementor/widgets/ova-counter-up.php:72
+#: ova-elementor/widgets/ova-image-box.php:48
+msgid "Class Icon"
+msgstr ""
+
+#: ova-elementor/widgets/ova_contact_info.php:169
+msgid "Class icon"
+msgstr ""
+
+#: ova-elementor/widgets/ova-accordion.php:118
+msgid "Class Icon Active"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon-transform.php:86
+msgid "Clean Water"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:599
+#: ova-elementor/widgets/ova-testimonial-image.php:431
+#: ova-elementor/widgets/ova-menu.php:588
+#: ova-elementor/widgets/ova-button.php:153
+#: ova-elementor/widgets/ova-button.php:264
+#: ova-elementor/widgets/ova-icon-text.php:205
+#: ova-elementor/widgets/ova-icon-text.php:277
+#: ova-elementor/widgets/ova-icon-text.php:363
+#: ova-elementor/widgets/ova-icon-text.php:435
+#: ova-elementor/widgets/ova_give_donation.php:91
+#: ova-elementor/widgets/ova_give_donation.php:145
+#: ova-elementor/widgets/ova_give_donation.php:180
+#: ova-elementor/widgets/ova-avatar.php:239
+#: ova-elementor/widgets/ova-avatar.php:317
+#: ova-elementor/widgets/ova-avatar.php:411
+#: ova-elementor/widgets/ova-avatar.php:464
+#: ova-elementor/widgets/ova-avatar.php:532
+#: ova-elementor/widgets/ova-avatar.php:585
+#: ova-elementor/widgets/ova-testimonial.php:373
+#: ova-elementor/widgets/ova-list-icon-transform.php:110
+#: ova-elementor/widgets/ova-contact.php:317
+#: ova-elementor/widgets/ova-icon.php:118
+#: ova-elementor/widgets/ova-icon.php:166
+#: ova-elementor/widgets/ova-heading.php:331
+#: ova-elementor/widgets/ova_blog.php:155
+#: ova-elementor/widgets/ova_contact_info.php:209
+#: ova-elementor/widgets/ova_contact_info.php:253
+#: ova-elementor/widgets/ova_blog_slide.php:279
+#: ova-elementor/widgets/ova-accordion.php:152
+#: ova-elementor/widgets/ova-accordion.php:202
+#: ova-elementor/widgets/ova-accordion.php:277
+#: ova-elementor/widgets/ova-accordion.php:364
+#: ova-elementor/widgets/ova-list-icon.php:166
+msgid "Color"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:542
+#: ova-elementor/widgets/ova-image-text.php:915
+#: ova-elementor/widgets/ova-heading.php:246
+#: ova-elementor/widgets/ova-heading.php:289
+msgid "Color "
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial.php:464
+msgid "Color Author"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_slide2.php:267
+msgid "Color Description"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donation.php:102
+msgid "Color Hover"
+msgstr ""
+
+#: ova-elementor/widgets/ova_contact_info.php:267
+msgid "Color hover"
+msgstr ""
+
+#: ova-elementor/widgets/ova-contact.php:187
+msgid "Color Icon"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon-transform.php:149
+#: ova-elementor/widgets/ova-icon-box.php:107
+#: ova-elementor/widgets/ova-icon-box.php:163
+#: ova-elementor/widgets/ova-list-icon.php:402
+#: ova-elementor/widgets/ova-image-icon.php:106
+#: ova-elementor/widgets/ova-counter-up.php:228
+#: ova-elementor/widgets/ova-counter-up.php:298
+#: ova-elementor/widgets/ova-image-box.php:141
+msgid "Color icon "
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial.php:528
+msgid "Color Job"
+msgstr ""
+
+#: ova-elementor/widgets/ova_contact_info.php:278
+msgid "Color Label"
+msgstr ""
+
+#: ova-elementor/widgets/ova_contact_info.php:289
+msgid "Color Label Hover"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donations.php:122
+#: ova-elementor/widgets/ova_give_slide.php:268
+msgid "Color Media"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donation.php:230
+#: ova-elementor/widgets/ova_progress_bar.php:130
+msgid "Color Number"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:862
+#: ova-elementor/widgets/ova-image-box.php:184
+msgid "Color Price "
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_slide2.php:309
+#: ova-elementor/widgets/ova_progress_bar.php:159
+#: ova-elementor/widgets/ova_give_donations.php:111
+#: ova-elementor/widgets/ova_give_slide.php:257
+msgid "Color Progress"
+msgstr ""
+
+#: ova-elementor/widgets/ova_blog.php:248
+#: ova-elementor/widgets/ova_blog_slide.php:372
+msgid "Color Read More"
+msgstr ""
+
+#: ova-elementor/widgets/ova_blog.php:258
+#: ova-elementor/widgets/ova_blog_slide.php:382
+msgid "Color Read More Hover"
+msgstr ""
+
+#: ova-elementor/widgets/ova-contact.php:245
+#: ova-elementor/widgets/ova-contact.php:375
+msgid "Color Social"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donation.php:259
+#: ova-elementor/widgets/ova-contact.php:225
+#: ova-elementor/widgets/ova-contact.php:355
+msgid "Color Text"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:670
+#: ova-elementor/widgets/ova-image-text.php:757
+msgid "Color Text "
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_slide2.php:212
+#: ova-elementor/widgets/ova_progress_bar.php:90
+#: ova-elementor/widgets/ova_blog.php:202
+#: ova-elementor/widgets/ova_blog_slide.php:326
+msgid "Color Title"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon-transform.php:192
+#: ova-elementor/widgets/ova-list-icon-transform.php:247
+#: ova-elementor/widgets/ova-list-icon.php:476
+#: ova-elementor/widgets/ova-image-icon.php:185
+#: ova-elementor/widgets/ova-image-box.php:239
+msgid "Color Title "
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_slide2.php:236
+#: ova-elementor/widgets/ova_blog.php:213
+#: ova-elementor/widgets/ova_blog_slide.php:337
+msgid "Color Title Hover"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donations.php:61
+msgid "Columns"
+msgstr ""
+
+#: ova-elementor/widgets/ova_contact_info.php:21
+msgid "Contact Info"
+msgstr ""
+
+#: ova-elementor/widgets/ova_contact_info.php:111
+msgid "contact@domain.com"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:45
+#: ova-elementor/widgets/ova-image-text.php:295
+#: ova-elementor/widgets/ova-testimonial-image.php:45
+#: ova-elementor/widgets/ova-menu.php:700
+#: ova-elementor/widgets/ova-button.php:41
+#: ova-elementor/widgets/ova-button.php:125
+#: ova-elementor/widgets/ova-icon-text.php:43
+#: ova-elementor/widgets/ova-icon-text.php:101
+#: ova-elementor/widgets/ova-header.php:93
+#: ova-elementor/widgets/ova-avatar.php:42
+#: ova-elementor/widgets/ova-avatar.php:165
+#: ova-elementor/widgets/ova_give_slide2.php:47
+#: ova-elementor/widgets/ova-testimonial.php:46
+#: ova-elementor/widgets/ova-list-icon-transform.php:41
+#: ova-elementor/widgets/ova-contact.php:41
+#: ova-elementor/widgets/ova-contact.php:170
+#: ova-elementor/widgets/ova-icon.php:41 ova-elementor/widgets/ova-icon.php:101
+#: ova-elementor/widgets/ova-heading.php:42
+#: ova-elementor/widgets/ova-heading.php:170
+#: ova-elementor/widgets/ova_blog.php:59
+#: ova-elementor/widgets/ova_contact_info.php:42
+#: ova-elementor/widgets/ova_blog_slide.php:61
+#: ova-elementor/widgets/ova-icon-box.php:42
+#: ova-elementor/widgets/ova-accordion.php:345
+#: ova-elementor/widgets/ova-list-icon.php:42
+#: ova-elementor/widgets/ova-image-icon.php:42
+#: ova-elementor/widgets/ova_give_slide.php:47
+#: ova-elementor/widgets/ova-counter-up.php:50
+#: ova-elementor/widgets/ova-counter-up.php:175
+#: ova-elementor/widgets/ova-image-box.php:41
+msgid "Content"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial.php:329
+msgid "Content Testimonial"
+msgstr ""
+
+#: ova-elementor/widgets/ova_blog_slide.php:102
+msgid "Continue Reading"
+msgstr ""
+
+#: ova-elementor/widgets/ova_search_popup.php:116
+msgid "Dashed"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_slide2.php:82
+#: ova-elementor/widgets/ova_give_donations.php:78
+#: ova-elementor/widgets/ova_give_slide.php:82
+msgid "Default"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_slide2.php:70
+#: ova-elementor/widgets/ova_blog.php:107
+#: ova-elementor/widgets/ova_blog_slide.php:92
+#: ova-elementor/widgets/ova_give_slide.php:70
+msgid "Descending"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donation.php:130
+#: ova-elementor/widgets/ova-heading.php:111
+#: ova-elementor/widgets/ova-heading.php:314
+msgid "Description"
+msgstr ""
+
+#: ova-elementor/widgets/ova-logo.php:51
+msgid "Desktop Logo"
+msgstr ""
+
+#: ova-elementor/widgets/ova-logo.php:96
+msgid "Desktop Logo Height"
+msgstr ""
+
+#: ova-elementor/widgets/ova-logo.php:74
+msgid "Desktop Logo Width"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:110
+msgid "Display Background by Feature Image in Post/Page"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:101
+msgid "Display Boxed Content"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:463
+msgid "Display Canvas"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:75
+msgid "Display Horizontal | Vertical"
+msgstr ""
+
+#: custom-post-type/hf-builder/hf-builder.php:128
+msgid "Display in"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:186
+msgid "DIV"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donation.php:284
+msgid "Donate"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:222
+#: ova-elementor/widgets/ova-testimonial-image.php:252
+#: ova-elementor/widgets/ova-testimonial-image.php:258
+#: ova-elementor/widgets/ova-testimonial-image.php:264
+#: ova-elementor/widgets/ova-testimonial-image.php:270
+msgid "Donation"
+msgstr ""
+
+#: ova-elementor/widgets/ova_progress_bar.php:56
+msgid "Donations"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial.php:310
+msgid "Dot Active Color"
+msgstr ""
+
+#: ova-elementor/widgets/ova_search_popup.php:117
+msgid "Dotted"
+msgstr ""
+
+#: ova-elementor/widgets/ova_search_popup.php:118
+msgid "Double"
+msgstr ""
+
+#: custom-post-type/hf-builder/hf-builder.php:41
+msgid "Edit Elemmentor"
+msgstr ""
+
+#: custom-post-type/hf-builder/hf-builder.php:111
+msgid "Elementor Header Footer Option"
+msgstr ""
+
+#: ova-elementor/widgets/ova_contact_info.php:54
+msgid "Email"
+msgstr ""
+
+#: ova-elementor/widgets/ova-accordion.php:266
+msgid "End"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:196
+msgid "Event 1"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:220
+msgid "Event 2"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon.php:182
+#: ova-elementor/widgets/ova-list-icon.php:187
+msgid "fa fa-check"
+msgstr ""
+
+#: ova-elementor/widgets/ova-contact.php:158
+msgid "fab fa-dribbble"
+msgstr ""
+
+#: ova-elementor/widgets/ova-avatar.php:145
+#: ova-elementor/widgets/ova-contact.php:146
+msgid "fab fa-facebook-square"
+msgstr ""
+
+#: ova-elementor/widgets/ova-avatar.php:149
+#: ova-elementor/widgets/ova-contact.php:154
+msgid "fab fa-instagram"
+msgstr ""
+
+#: ova-elementor/widgets/ova-avatar.php:141
+#: ova-elementor/widgets/ova-contact.php:150
+msgid "fab fa-twitter"
+msgstr ""
+
+#: ova-elementor/widgets/ova-contact.php:104
+msgid "fas fa-envelope"
+msgstr ""
+
+#: ova-elementor/widgets/ova-contact.php:99
+msgid "fas fa-phone-square-alt"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_slide2.php:83
+#: ova-elementor/widgets/ova_give_donations.php:79
+#: ova-elementor/widgets/ova_give_slide.php:83
+msgid "Feature"
+msgstr ""
+
+#: ova-elementor/widgets/ova-logo.php:235
+msgid "Fixed Logo Height"
+msgstr ""
+
+#: ova-elementor/widgets/ova-logo.php:213
+msgid "Fixed Logo Width"
+msgstr ""
+
+#: inc/hooks.php:69
+msgid "Flip"
+msgstr ""
+
+#: ova-elementor/widgets/ova_contact_info.php:189
+msgid "Font Size"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon.php:100
+msgid "Food"
+msgstr ""
+
+#: custom-post-type/hf-builder/hf-builder.php:130
+msgid "Footer"
+msgstr ""
+
+#: metabox/class-metabox.php:111
+msgid "Footer Version"
+msgstr ""
+
+#: metabox/class-metabox.php:79
+msgid "Gallery image"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial.php:287
+msgid "General"
+msgstr ""
+
+#: metabox/class-metabox.php:92
+msgid "General Settings"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donation.php:21
+msgid "Give Donation"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donations.php:22
+msgid "Give Donations"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_slide.php:21
+msgid "Give Slide"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_slide2.php:21
+msgid "Give Slide 2"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:49
+msgid "Global"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donation.php:508
+#: ova-elementor/widgets/ova_give_slide2.php:509
+#: ova-elementor/widgets/ova_give_donations.php:302
+#: ova-elementor/widgets/ova_give_slide.php:481
+msgid "Goal"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial.php:123
+msgid "Governer Of Canada"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:485
+msgid "Gray"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:180
+msgid "H1"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:181
+msgid "H2"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:182
+msgid "H3"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:183
+msgid "H4"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:184
+msgid "H5"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:185
+msgid "H6"
+msgstr ""
+
+#: ova-elementor/widgets/ova_contact_info.php:99
+msgid "Have Issues?"
+msgstr ""
+
+#: custom-post-type/hf-builder/hf-builder.php:131
+msgid "Header"
+msgstr ""
+
+#: ova-elementor/widgets/ova-logo.php:190
+msgid "Header Fixed Logo Retina"
+msgstr ""
+
+#: ova-elementor/class-ova-register-elementor.php:97
+msgid "Header Footer"
+msgstr ""
+
+#: metabox/class-metabox.php:100
+msgid "Header Version"
+msgstr ""
+
+#: ova-elementor/widgets/ova-heading.php:81
+msgid "Heading Title"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:43
+msgid "Heading Top Page"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon-transform.php:81
+msgid "Healthy Food"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:365
+msgid "Height"
+msgstr ""
+
+#: ova-elementor/widgets/ova-icon-box.php:233
+msgid "Height Box"
+msgstr ""
+
+#: inc/hooks.php:70
+msgid "Helix"
+msgstr ""
+
+#: ova-elementor/widgets/ova-heading.php:84
+msgid "Help the Poor in Need"
+msgstr ""
+
+#: ova-elementor/widgets/ova-heading.php:52
+msgid "Helping Them Today"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:649
+#: ova-elementor/widgets/ova_blog.php:132
+#: ova-elementor/widgets/ova_blog_slide.php:114
+msgid "Hide"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:79
+msgid "Horizontal"
+msgstr ""
+
+#: ova-elementor/widgets/ova_social.php:322
+msgid "Hover Animation"
+msgstr ""
+
+#: ova-elementor/widgets/ova-accordion.php:71
+#: ova-elementor/widgets/ova-accordion.php:75
+#: ova-elementor/widgets/ova-accordion.php:79
+msgid "How to process the charity functions?"
+msgstr ""
+
+#: ova-elementor/widgets/ova-heading.php:121
+msgid "HTML Description Tag"
+msgstr ""
+
+#: ova-elementor/widgets/ova-heading.php:59
+msgid "HTML Sub title Tag"
+msgstr ""
+
+#: ova-elementor/widgets/ova-heading.php:91
+msgid "HTML Title Tag"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/ovatheme"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/ovatheme/portfolio"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:259
+#: ova-elementor/widgets/ova-testimonial-image.php:210
+#: ova-elementor/widgets/ova-testimonial-image.php:234
+#: ova-elementor/widgets/ova-button.php:62
+#: ova-elementor/widgets/ova_social.php:90
+#: ova-elementor/widgets/ova-avatar.php:68
+#: ova-elementor/widgets/ova-avatar.php:92
+#: ova-elementor/widgets/ova-avatar.php:126
+#: ova-elementor/widgets/ova-contact.php:84
+#: ova-elementor/widgets/ova-contact.php:131
+#: ova-elementor/widgets/ova-icon.php:62
+#: ova-elementor/widgets/ova_contact_info.php:83
+#: ova-elementor/widgets/ova-list-icon.php:145
+msgid "https://your-link.com"
+msgstr ""
+
+#: ova-elementor/widgets/ova_social.php:74
+#: ova-elementor/widgets/ova_social.php:155
+#: ova-elementor/widgets/ova-icon-text.php:346
+#: ova-elementor/widgets/ova-avatar.php:515
+#: ova-elementor/widgets/ova-list-icon-transform.php:141
+#: ova-elementor/widgets/ova_contact_info.php:181
+#: ova-elementor/widgets/ova-icon-box.php:90
+#: ova-elementor/widgets/ova-accordion.php:250
+#: ova-elementor/widgets/ova-list-icon.php:394
+#: ova-elementor/widgets/ova-image-icon.php:98
+#: ova-elementor/widgets/ova-counter-up.php:211
+#: ova-elementor/widgets/ova-image-box.php:133
+msgid "Icon"
+msgstr ""
+
+#: ova-elementor/widgets/ova_social.php:295
+#: ova-elementor/widgets/ova_search_popup.php:52
+msgid "Icon Color"
+msgstr ""
+
+#: ova-elementor/widgets/ova_social.php:55
+msgid "Icon Color 1"
+msgstr ""
+
+#: ova-elementor/widgets/ova_social.php:276
+msgid "Icon Hover"
+msgstr ""
+
+#: ova-elementor/widgets/ova_search_popup.php:63
+msgid "Icon Hover Color"
+msgstr ""
+
+#: ova-elementor/widgets/ova-button.php:80
+msgid "Icon Position"
+msgstr ""
+
+#: ova-elementor/widgets/ova-contact.php:198
+msgid "Icon Size"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon.php:99
+#: ova-elementor/widgets/ova-list-icon.php:102
+#: ova-elementor/widgets/ova-list-icon.php:105
+msgid "icon-confirmation"
+msgstr ""
+
+#: ova-elementor/widgets/ova-counter-up.php:106
+msgid "icon-donation"
+msgstr ""
+
+#: ova-elementor/widgets/ova-icon.php:50
+msgid "icon-magnifying-glass"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon-transform.php:80
+msgid "icon-salad"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:232
+msgid "icon-support"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon-transform.php:85
+msgid "icon-water"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:319
+#: ova-elementor/widgets/ova-testimonial-image.php:475
+#: ova-elementor/widgets/ova-logo.php:44
+#: ova-elementor/widgets/ova-icon-box.php:276
+#: ova-elementor/widgets/ova-image-icon.php:142
+msgid "Image"
+msgstr ""
+
+#: metabox/class-metabox.php:80
+msgid "image in gallery post format"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:339
+#: ova-elementor/widgets/ova_give_slide2.php:124
+#: ova-elementor/widgets/ova-testimonial.php:200
+#: ova-elementor/widgets/ova_blog_slide.php:183
+#: ova-elementor/widgets/ova_give_slide.php:160
+msgid "Infinite Loop"
+msgstr ""
+
+#: metabox/class-metabox.php:71
+msgid "Insert link audio or video use for video/audio post-format"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:454
+msgid "Ipad | Mobile"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon.php:350
+msgid "Item"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:302
+#: ova-elementor/widgets/ova-testimonial.php:163
+#: ova-elementor/widgets/ova_blog_slide.php:146
+#: ova-elementor/widgets/ova_give_slide.php:123
+msgid "Item Number"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial.php:511
+msgid "Job"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:85
+#: ova-elementor/widgets/ova-image-text.php:98
+#: ova-elementor/widgets/ova-image-text.php:102
+#: ova-elementor/widgets/ova-image-text.php:136
+msgid "Join Our<br/>Volunteers"
+msgstr ""
+
+#: ova-elementor/widgets/ova_contact_info.php:109
+msgid "Label"
+msgstr ""
+
+#: ova-elementor/widgets/ova_contact_info.php:118
+msgid "Label 2"
+msgstr ""
+
+#: ova-elementor/widgets/ova_contact_info.php:130
+msgid "Label 3"
+msgstr ""
+
+#: ova-elementor/widgets/ova_progress_bar.php:45
+#: ova-elementor/widgets/ova_give_donations.php:45
+msgid "Layout"
+msgstr ""
+
+#: ova-elementor/widgets/ova-button.php:50
+msgid "Learn More"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:1079
+#: ova-elementor/widgets/ova-image-text.php:1212
+#: ova-elementor/widgets/ova-logo.php:263
+#: ova-elementor/widgets/ova-menu.php:141
+#: ova-elementor/widgets/ova-menu.php:262
+#: ova-elementor/widgets/ova-menu.php:467
+#: ova-elementor/widgets/ova-menu.php:509
+#: ova-elementor/widgets/ova-menu.php:533
+#: ova-elementor/widgets/ova-button.php:101
+#: ova-elementor/widgets/ova_social.php:122
+#: ova-elementor/widgets/ova-icon-text.php:126
+#: ova-elementor/widgets/ova-header.php:275
+#: ova-elementor/widgets/ova-avatar.php:287
+#: ova-elementor/widgets/ova-avatar.php:365
+#: ova-elementor/widgets/ova-icon.php:77
+#: ova-elementor/widgets/ova-heading.php:146
+#: ova-elementor/widgets/ova_contact_info.php:147
+#: ova-elementor/widgets/ova-icon-box.php:303
+#: ova-elementor/widgets/ova-list-icon.php:322
+#: ova-elementor/widgets/ova-counter-up.php:145
+msgid "Left"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:254
+#: ova-elementor/widgets/ova-button.php:57
+#: ova-elementor/widgets/ova_social.php:84
+#: ova-elementor/widgets/ova-avatar.php:121
+#: ova-elementor/widgets/ova-contact.php:79
+#: ova-elementor/widgets/ova-contact.php:126
+#: ova-elementor/widgets/ova-icon.php:57
+#: ova-elementor/widgets/ova_contact_info.php:81
+#: ova-elementor/widgets/ova-list-icon.php:140
+msgid "Link"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:205
+msgid "Link 1"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:229
+msgid "Link 2"
+msgstr ""
+
+#: metabox/class-metabox.php:70
+msgid "Link audio or video"
+msgstr ""
+
+#: ova-elementor/widgets/ova-avatar.php:63
+msgid "Link Image"
+msgstr ""
+
+#: ova-elementor/widgets/ova-avatar.php:87
+msgid "Link Title"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon.php:208
+msgid "List Icon"
+msgstr ""
+
+#: ova-elementor/widgets/ova-logo.php:25
+msgid "Logo"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:275
+msgid ""
+"Lorem ipsum dolor sit am adipi sicing elit, sed do consulting firms Et "
+"leggings."
+msgstr ""
+
+#: ova-elementor/widgets/ova-heading.php:114
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur notted adipisicing elit sed do "
+"eiusmod tempor incididunt ut labore et simply free text dolore magna aliqua "
+"lonm andhn."
+msgstr ""
+
+#: metabox/class-metabox.php:122
+msgid "Main Layout"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:566
+#: ova-elementor/widgets/ova-image-text.php:622
+#: ova-elementor/widgets/ova-image-text.php:720
+#: ova-elementor/widgets/ova-image-text.php:806
+#: ova-elementor/widgets/ova-image-text.php:882
+#: ova-elementor/widgets/ova-image-text.php:935
+#: ova-elementor/widgets/ova-testimonial-image.php:483
+#: ova-elementor/widgets/ova-menu.php:553
+#: ova-elementor/widgets/ova-menu.php:634
+#: ova-elementor/widgets/ova-menu.php:743
+#: ova-elementor/widgets/ova-button.php:174
+#: ova-elementor/widgets/ova-button.php:285
+#: ova-elementor/widgets/ova-icon-text.php:109
+#: ova-elementor/widgets/ova-icon-text.php:241
+#: ova-elementor/widgets/ova-icon-text.php:313
+#: ova-elementor/widgets/ova-icon-text.php:399
+#: ova-elementor/widgets/ova-icon-text.php:471
+#: ova-elementor/widgets/ova-avatar.php:259
+#: ova-elementor/widgets/ova-avatar.php:337
+#: ova-elementor/widgets/ova-avatar.php:431
+#: ova-elementor/widgets/ova-avatar.php:484
+#: ova-elementor/widgets/ova-avatar.php:552
+#: ova-elementor/widgets/ova-avatar.php:605
+#: ova-elementor/widgets/ova_menu_page.php:128
+#: ova-elementor/widgets/ova-testimonial.php:386
+#: ova-elementor/widgets/ova-testimonial.php:477
+#: ova-elementor/widgets/ova-testimonial.php:540
+#: ova-elementor/widgets/ova-list-icon-transform.php:212
+#: ova-elementor/widgets/ova-list-icon-transform.php:267
+#: ova-elementor/widgets/ova_search_popup.php:172
+#: ova-elementor/widgets/ova-contact.php:295
+#: ova-elementor/widgets/ova-heading.php:178
+#: ova-elementor/widgets/ova-heading.php:257
+#: ova-elementor/widgets/ova-heading.php:300
+#: ova-elementor/widgets/ova-heading.php:343
+#: ova-elementor/widgets/ova_contact_info.php:221
+#: ova-elementor/widgets/ova_contact_info.php:300
+#: ova-elementor/widgets/ova-accordion.php:140
+#: ova-elementor/widgets/ova-accordion.php:222
+#: ova-elementor/widgets/ova-accordion.php:384
+#: ova-elementor/widgets/ova-list-icon.php:303
+#: ova-elementor/widgets/ova-list-icon.php:376
+#: ova-elementor/widgets/ova-counter-up.php:183
+#: ova-elementor/widgets/ova-counter-up.php:264
+#: ova-elementor/widgets/ova-counter-up.php:334
+#: ova-elementor/widgets/ova-counter-up.php:422
+#: ova-elementor/widgets/ova-counter-up.php:493
+#: ova-elementor/widgets/ova-counter-up.php:579
+#: ova-elementor/widgets/ova-counter-up.php:650
+msgid "Margin"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon-transform.php:169
+#: ova-elementor/widgets/ova-list-icon.php:451
+#: ova-elementor/widgets/ova-image-icon.php:126
+#: ova-elementor/widgets/ova-image-box.php:161
+msgid "Margin "
+msgstr ""
+
+#: ova-elementor/widgets/ova-button.php:228
+#: ova-elementor/widgets/ova-button.php:339
+msgid "Margin Icon"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-box.php:204
+msgid "Margin Price"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:292
+#: ova-elementor/widgets/ova-testimonial.php:153
+#: ova-elementor/widgets/ova_blog_slide.php:136
+#: ova-elementor/widgets/ova_give_slide.php:113
+msgid "Margin Right Items"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon.php:525
+#: ova-elementor/widgets/ova-image-icon.php:205
+#: ova-elementor/widgets/ova-image-box.php:259
+msgid "Margin Title"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:328
+#: ova-elementor/widgets/ova-icon-text.php:147
+msgid "Max Width"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon.php:106
+msgid "Medical"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:18
+#: ova-elementor/widgets/ova_menu_page.php:40
+msgid "Menu"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:496
+msgid "Menu Button"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:258
+msgid "Menu Direction"
+msgstr ""
+
+#: ova-elementor/widgets/ova_menu_page.php:21
+msgid "Menu Page"
+msgstr ""
+
+#: ova-elementor/widgets/ova_menu_page.php:64
+msgid "Menu Type"
+msgstr ""
+
+#: ova-elementor/widgets/ova_blog.php:145
+#: ova-elementor/widgets/ova_blog_slide.php:269
+msgid "Meta"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial.php:118
+msgid "Minister Of Omina"
+msgstr ""
+
+#: ova-elementor/widgets/ova-logo.php:157
+msgid "Mobile Logo Height"
+msgstr ""
+
+#: ova-elementor/widgets/ova-logo.php:121
+msgid "Mobile Logo Retina"
+msgstr ""
+
+#: ova-elementor/widgets/ova-logo.php:135
+msgid "Mobile Logo Width"
+msgstr ""
+
+#: ova-elementor/widgets/ova_blog.php:120
+msgid "More"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:190
+msgid "More Charity"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:244
+msgid "More<br/>Charity"
+msgstr ""
+
+#: inc/hooks.php:65
+msgid "Move Down"
+msgstr ""
+
+#: inc/hooks.php:66
+msgid "Move Left"
+msgstr ""
+
+#: inc/hooks.php:67
+msgid "Move Right"
+msgstr ""
+
+#: inc/hooks.php:64
+msgid "Move Up"
+msgstr ""
+
+#: ova-elementor/widgets/ova-avatar.php:78
+#: ova-elementor/widgets/ova-avatar.php:222
+msgid "Name"
+msgstr ""
+
+#: ova-elementor/widgets/ova-contact.php:105
+msgid "needhelp@company.com"
+msgstr ""
+
+#: custom-post-type/hf-builder/hf-builder.php:40
+msgid "New Elemmentor"
+msgstr ""
+
+#: metabox/class-metabox.php:46
+#: ova-elementor/widgets/ova-testimonial-image.php:329
+#: ova-elementor/widgets/ova-testimonial-image.php:344
+#: ova-elementor/widgets/ova-testimonial-image.php:358
+#: ova-elementor/widgets/ova-testimonial-image.php:395
+#: ova-elementor/widgets/ova-testimonial-image.php:409
+#: ova-elementor/widgets/ova_give_slide2.php:114
+#: ova-elementor/widgets/ova_give_slide2.php:129
+#: ova-elementor/widgets/ova_give_slide2.php:143
+#: ova-elementor/widgets/ova_give_slide2.php:183
+#: ova-elementor/widgets/ova_menu_page.php:82
+#: ova-elementor/widgets/ova-testimonial.php:190
+#: ova-elementor/widgets/ova-testimonial.php:205
+#: ova-elementor/widgets/ova-testimonial.php:219
+#: ova-elementor/widgets/ova-testimonial.php:256
+#: ova-elementor/widgets/ova-testimonial.php:270
+#: ova-elementor/widgets/ova_blog_slide.php:173
+#: ova-elementor/widgets/ova_blog_slide.php:188
+#: ova-elementor/widgets/ova_blog_slide.php:202
+#: ova-elementor/widgets/ova_blog_slide.php:241
+#: ova-elementor/widgets/ova_blog_slide.php:255
+#: ova-elementor/widgets/ova_give_slide.php:150
+#: ova-elementor/widgets/ova_give_slide.php:165
+#: ova-elementor/widgets/ova_give_slide.php:179
+#: ova-elementor/widgets/ova_give_slide.php:218
+#: ova-elementor/widgets/ova_give_slide.php:232
+msgid "No"
+msgstr ""
+
+#: custom-post-type/hf-builder/hf-builder.php:47
+msgid "No Elemmentors found in Trash."
+msgstr ""
+
+#: custom-post-type/hf-builder/hf-builder.php:46
+msgid "No Elemmentors found."
+msgstr ""
+
+#: ova-elementor/widgets/ova_search_popup.php:119
+#: ova-elementor/widgets/ova_contact_info.php:56
+#: custom-post-type/hf-builder/hf-builder.php:132
+msgid "None"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_slide2.php:521
+#: ova-elementor/widgets/ova_give_donations.php:313
+#: ova-elementor/widgets/ova_give_slide.php:492
+msgid "Not Found Give Donation"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:146
+msgid "Number"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:304
+#: ova-elementor/widgets/ova-testimonial.php:165
+#: ova-elementor/widgets/ova_blog_slide.php:148
+#: ova-elementor/widgets/ova_give_slide.php:125
+msgid "Number Item"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donations.php:52
+msgid "Number Items"
+msgstr ""
+
+#: ova-elementor/widgets/ova_blog.php:85
+msgid "Number Of Columns"
+msgstr ""
+
+#: ova-elementor/widgets/ova_progress_bar.php:63
+msgid "Number Percentage"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_slide2.php:65
+#: ova-elementor/widgets/ova_blog.php:102
+#: ova-elementor/widgets/ova_blog_slide.php:87
+#: ova-elementor/widgets/ova_give_slide.php:65
+msgid "Order"
+msgstr ""
+
+#: ova-elementor/widgets/ova-accordion.php:20
+msgid "Ova Accordion"
+msgstr ""
+
+#: ova-elementor/widgets/ova-avatar.php:21
+msgid "Ova Avatar"
+msgstr ""
+
+#: ova-elementor/widgets/ova-button.php:21
+msgid "Ova Button"
+msgstr ""
+
+#: ova-elementor/widgets/ova-contact.php:21
+msgid "Ova Contact"
+msgstr ""
+
+#: ova-elementor/widgets/ova-counter-up.php:26
+msgid "Ova Counter Up"
+msgstr ""
+
+#: ova-elementor/widgets/ova-heading.php:21
+msgid "Ova Heading"
+msgstr ""
+
+#: ova-elementor/widgets/ova-icon.php:21
+msgid "Ova Icon"
+msgstr ""
+
+#: ova-elementor/widgets/ova-icon-box.php:21
+msgid "Ova Icon Box"
+msgstr ""
+
+#: ova-elementor/widgets/ova-icon-text.php:21
+msgid "Ova Icon Text"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-box.php:20
+msgid "Ova Image Box"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-icon.php:21
+msgid "Ova Image Icon"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:21
+msgid "Ova Image Text"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon.php:21
+msgid "Ova List Icon"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon-transform.php:20
+msgid "Ova List Icon Transform"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial.php:22
+msgid "Ova Testimonial"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:21
+msgid "Ova Testimonial Image"
+msgstr ""
+
+#. Author of the plugin
+#: ova-elementor/class-ova-register-elementor.php:110
+msgid "Ovatheme"
+msgstr ""
+
+#. Name of the plugin
+msgid "OvaTheme Framework"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:578
+#: ova-elementor/widgets/ova-image-text.php:634
+#: ova-elementor/widgets/ova-image-text.php:734
+#: ova-elementor/widgets/ova-image-text.php:820
+#: ova-elementor/widgets/ova-image-text.php:894
+#: ova-elementor/widgets/ova-image-text.php:947
+#: ova-elementor/widgets/ova-testimonial-image.php:459
+#: ova-elementor/widgets/ova-menu.php:564
+#: ova-elementor/widgets/ova-menu.php:755
+#: ova-elementor/widgets/ova-button.php:186
+#: ova-elementor/widgets/ova-button.php:297
+#: ova-elementor/widgets/ova_social.php:184
+#: ova-elementor/widgets/ova-icon-text.php:254
+#: ova-elementor/widgets/ova-icon-text.php:326
+#: ova-elementor/widgets/ova-icon-text.php:412
+#: ova-elementor/widgets/ova-icon-text.php:484
+#: ova-elementor/widgets/ova_give_donation.php:113
+#: ova-elementor/widgets/ova_give_donation.php:156
+#: ova-elementor/widgets/ova_give_donation.php:308
+#: ova-elementor/widgets/ova-avatar.php:205
+#: ova-elementor/widgets/ova-avatar.php:271
+#: ova-elementor/widgets/ova-avatar.php:349
+#: ova-elementor/widgets/ova-avatar.php:443
+#: ova-elementor/widgets/ova-avatar.php:496
+#: ova-elementor/widgets/ova-avatar.php:564
+#: ova-elementor/widgets/ova-avatar.php:617
+#: ova-elementor/widgets/ova_give_slide2.php:248
+#: ova-elementor/widgets/ova_menu_page.php:116
+#: ova-elementor/widgets/ova-testimonial.php:400
+#: ova-elementor/widgets/ova-testimonial.php:491
+#: ova-elementor/widgets/ova-testimonial.php:552
+#: ova-elementor/widgets/ova-list-icon-transform.php:224
+#: ova-elementor/widgets/ova-list-icon-transform.php:279
+#: ova-elementor/widgets/ova_search_popup.php:185
+#: ova-elementor/widgets/ova-contact.php:283
+#: ova-elementor/widgets/ova-heading.php:190
+#: ova-elementor/widgets/ova_progress_bar.php:112
+#: ova-elementor/widgets/ova-accordion.php:234
+#: ova-elementor/widgets/ova-accordion.php:396
+#: ova-elementor/widgets/ova-list-icon.php:288
+#: ova-elementor/widgets/ova-list-icon.php:361
+#: ova-elementor/widgets/ova-counter-up.php:195
+#: ova-elementor/widgets/ova-counter-up.php:277
+#: ova-elementor/widgets/ova-counter-up.php:347
+#: ova-elementor/widgets/ova-counter-up.php:435
+#: ova-elementor/widgets/ova-counter-up.php:506
+#: ova-elementor/widgets/ova-counter-up.php:592
+#: ova-elementor/widgets/ova-counter-up.php:663
+msgid "Padding"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_slide2.php:289
+msgid "Padding Description"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:767
+msgid "Padding Link"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:112
+#: ova-elementor/widgets/ova-menu.php:277
+msgid "Padding Menu"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:289
+msgid "Padding Menu Item"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:124
+msgid "Padding Menu Items"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-box.php:103
+#: ova-elementor/widgets/ova-image-box.php:115
+#: ova-elementor/widgets/ova-image-box.php:216
+msgid "Padding Price"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon.php:539
+#: ova-elementor/widgets/ova-image-icon.php:217
+#: ova-elementor/widgets/ova-image-box.php:271
+msgid "Padding Title"
+msgstr ""
+
+#: custom-post-type/hf-builder/hf-builder.php:45
+msgid "Parent Elemmentors:"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:103
+msgid "Parent Menu"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:726
+msgid "Parent Menu Active"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:324
+#: ova-elementor/widgets/ova_give_slide2.php:109
+#: ova-elementor/widgets/ova-testimonial.php:185
+#: ova-elementor/widgets/ova_blog_slide.php:168
+#: ova-elementor/widgets/ova_give_slide.php:145
+msgid "Pause on Hover"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donation.php:532
+#: ova-elementor/widgets/ova_give_slide2.php:532
+#: ova-elementor/widgets/ova_give_donations.php:324
+#: ova-elementor/widgets/ova_give_slide.php:503
+msgid "Please active plugins Give Donations"
+msgstr ""
+
+#: inc/hooks.php:71
+msgid "PopUp"
+msgstr ""
+
+#: ova-elementor/widgets/ova_menu_page.php:100
+msgid "Position active"
+msgstr ""
+
+#: metabox/class-metabox.php:61
+msgid "Post Settings"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_slide2.php:56
+#: ova-elementor/widgets/ova_blog.php:76
+#: ova-elementor/widgets/ova_blog_slide.php:78
+#: ova-elementor/widgets/ova_give_slide.php:56
+msgid "Post Total"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:842
+#: ova-elementor/widgets/ova-counter-up.php:82
+#: ova-elementor/widgets/ova-counter-up.php:369
+#: ova-elementor/widgets/ova-image-box.php:58
+#: ova-elementor/widgets/ova-image-box.php:176
+msgid "Price"
+msgstr ""
+
+#: ova-elementor/widgets/ova-counter-up.php:386
+#: ova-elementor/widgets/ova-counter-up.php:457
+msgid "Price icon "
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donation.php:172
+msgid "Progress"
+msgstr ""
+
+#: ova-elementor/widgets/ova_progress_bar.php:22
+msgid "Progress Bar"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon.php:133
+#: ova-elementor/widgets/ova-list-icon.php:183
+#: ova-elementor/widgets/ova-list-icon.php:188
+msgid "Prosper in this volatile"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial.php:297
+msgid "Quote Job"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donation.php:215
+#: ova-elementor/widgets/ova_give_donation.php:498
+#: ova-elementor/widgets/ova_give_slide2.php:499
+#: ova-elementor/widgets/ova_give_donations.php:292
+#: ova-elementor/widgets/ova_give_slide.php:471
+msgid "Raised"
+msgstr ""
+
+#: ova-elementor/widgets/ova_blog.php:231
+#: ova-elementor/widgets/ova_blog_slide.php:355
+msgid "Read More"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:1017
+#: ova-elementor/widgets/ova-image-text.php:1150
+#: ova-elementor/widgets/ova-logo.php:271
+#: ova-elementor/widgets/ova-menu.php:149
+#: ova-elementor/widgets/ova-menu.php:266
+#: ova-elementor/widgets/ova-menu.php:471
+#: ova-elementor/widgets/ova-menu.php:517
+#: ova-elementor/widgets/ova-menu.php:541
+#: ova-elementor/widgets/ova-button.php:109
+#: ova-elementor/widgets/ova_social.php:130
+#: ova-elementor/widgets/ova-header.php:283
+#: ova-elementor/widgets/ova-avatar.php:295
+#: ova-elementor/widgets/ova-avatar.php:373
+#: ova-elementor/widgets/ova-icon.php:85
+#: ova-elementor/widgets/ova-heading.php:154
+#: ova-elementor/widgets/ova_contact_info.php:155
+#: ova-elementor/widgets/ova-icon-box.php:335
+#: ova-elementor/widgets/ova-list-icon.php:330
+#: ova-elementor/widgets/ova-counter-up.php:153
+msgid "Right"
+msgstr ""
+
+#: inc/hooks.php:68
+msgid "Scale Up"
+msgstr ""
+
+#: ova-elementor/widgets/ova_search_popup.php:45
+msgid "Search"
+msgstr ""
+
+#: custom-post-type/hf-builder/hf-builder.php:44
+msgid "Search Elemmentors"
+msgstr ""
+
+#: ova-elementor/widgets/ova_search_popup.php:26
+msgid "Search Popup"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:63
+#: ova-elementor/widgets/ova_menu_page.php:54
+msgid "Select Menu"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:316
+#: ova-elementor/widgets/ova-testimonial.php:177
+#: ova-elementor/widgets/ova_blog_slide.php:160
+#: ova-elementor/widgets/ova_give_slide.php:137
+msgid "Set how many slides are scrolled per swipe."
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:648
+#: ova-elementor/widgets/ova_blog.php:131
+#: ova-elementor/widgets/ova_blog_slide.php:113
+msgid "Show"
+msgstr ""
+
+#: ova-elementor/widgets/ova_menu_page.php:78
+msgid "Show Arrow"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:646
+msgid "Show Border"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:212
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:390
+#: ova-elementor/widgets/ova_give_slide2.php:178
+#: ova-elementor/widgets/ova-testimonial.php:251
+#: ova-elementor/widgets/ova_blog_slide.php:250
+#: ova-elementor/widgets/ova_give_slide.php:227
+msgid "Show Dots"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:404
+#: ova-elementor/widgets/ova-testimonial.php:265
+msgid "Show Nav"
+msgstr ""
+
+#: metabox/class-metabox.php:29
+msgid "Show Page Heading"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_slide2.php:78
+#: ova-elementor/widgets/ova_give_donations.php:74
+#: ova-elementor/widgets/ova_give_slide.php:78
+msgid "Show Post"
+msgstr ""
+
+#: ova-elementor/widgets/ova_blog.php:129
+#: ova-elementor/widgets/ova_blog_slide.php:111
+msgid "Show Reada More"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:140
+msgid "Show Title"
+msgstr ""
+
+#: metabox/class-metabox.php:39
+msgid "Show title of page"
+msgstr ""
+
+#: ova-elementor/widgets/ova-button.php:198
+#: ova-elementor/widgets/ova-button.php:309
+#: ova-elementor/widgets/ova_social.php:163
+#: ova-elementor/widgets/ova-contact.php:328
+#: ova-elementor/widgets/ova-icon.php:129
+#: ova-elementor/widgets/ova-icon.php:177
+#: ova-elementor/widgets/ova-accordion.php:307
+msgid "Size"
+msgstr ""
+
+#: ova-elementor/widgets/ova_search_popup.php:74
+msgid "Size Icon"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:314
+#: ova-elementor/widgets/ova-testimonial.php:175
+#: ova-elementor/widgets/ova_blog_slide.php:158
+#: ova-elementor/widgets/ova_give_slide.php:135
+msgid "Slides to Scroll"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:155
+#: ova-elementor/widgets/ova-testimonial-image.php:168
+#: ova-elementor/widgets/ova-testimonial-image.php:172
+#: ova-elementor/widgets/ova-testimonial-image.php:176
+#: ova-elementor/widgets/ova-testimonial-image.php:180
+msgid "Small Help"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:381
+#: ova-elementor/widgets/ova_give_slide2.php:166
+#: ova-elementor/widgets/ova-testimonial.php:242
+#: ova-elementor/widgets/ova_blog_slide.php:225
+#: ova-elementor/widgets/ova_give_slide.php:202
+msgid "Smart Speed"
+msgstr ""
+
+#: ova-elementor/widgets/ova_social.php:27
+msgid "Social"
+msgstr ""
+
+#: ova-elementor/widgets/ova_social.php:46
+#: ova-elementor/widgets/ova_social.php:97
+msgid "Social Icons"
+msgstr ""
+
+#: ova-elementor/widgets/ova-contact.php:256
+#: ova-elementor/widgets/ova-contact.php:386
+msgid "Social Size"
+msgstr ""
+
+#: ova-elementor/widgets/ova_search_popup.php:115
+msgid "Solid"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:442
+#: ova-elementor/widgets/ova_social.php:212
+#: ova-elementor/widgets/ova-list-icon-transform.php:121
+#: ova-elementor/widgets/ova-accordion.php:163
+#: ova-elementor/widgets/ova-accordion.php:289
+msgid "Spacing"
+msgstr ""
+
+#: ova-elementor/widgets/ova-accordion.php:262
+msgid "Start"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_slide2.php:200
+#: ova-elementor/widgets/ova_menu_page.php:91
+#: ova-elementor/widgets/ova_progress_bar.php:79
+#: ova-elementor/widgets/ova_give_donations.php:103
+#: ova-elementor/widgets/ova_give_slide.php:248
+msgid "Style"
+msgstr ""
+
+#: ova-elementor/widgets/ova_contact_info.php:97
+msgid "Sub Label"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:223
+msgid "Sub Menu"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:781
+msgid "Sub Menu Hover"
+msgstr ""
+
+#: ova-elementor/widgets/ova-heading.php:49
+#: ova-elementor/widgets/ova-heading.php:229
+msgid "Sub Title"
+msgstr ""
+
+#: ova-elementor/widgets/ova-counter-up.php:94
+#: ova-elementor/widgets/ova-image-box.php:69
+msgid "Successfull Campaigns"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:92
+#: ova-elementor/widgets/ova-list-icon-transform.php:75
+#: ova-elementor/widgets/ova-list-icon.php:94
+#: ova-elementor/widgets/ova-list-icon.php:177
+msgid "Tabs"
+msgstr ""
+
+#: ova-elementor/widgets/ova-contact.php:94
+msgid "Tabs Contact"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:245
+msgid "Tabs Event"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:106
+msgid "Tabs Image"
+msgstr ""
+
+#: ova-elementor/widgets/ova-contact.php:141
+msgid "Tabs Social"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial-image.php:162
+msgid "Tabs Title"
+msgstr ""
+
+#: ova-elementor/widgets/ova_contact_info.php:55
+msgid "Tell"
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial.php:98
+msgid "Testimonial "
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:272
+#: ova-elementor/widgets/ova-image-text.php:653
+#: ova-elementor/widgets/ova-icon-text.php:63
+#: ova-elementor/widgets/ova-icon-text.php:75
+#: ova-elementor/widgets/ova-icon-text.php:188
+#: ova-elementor/widgets/ova_give_donation.php:291
+#: ova-elementor/widgets/ova-list-icon-transform.php:67
+#: ova-elementor/widgets/ova-list-icon-transform.php:239
+#: ova-elementor/widgets/ova-contact.php:71
+#: ova-elementor/widgets/ova-accordion.php:58
+#: ova-elementor/widgets/ova-image-icon.php:83
+#: ova-elementor/widgets/ova-counter-up.php:526
+#: ova-elementor/widgets/ova-image-box.php:67
+msgid "Text"
+msgstr ""
+
+#: ova-elementor/widgets/ova-counter-up.php:92
+msgid "text"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:164
+#: ova-elementor/widgets/ova-menu.php:323
+#: ova-elementor/widgets/ova_menu_page.php:152
+msgid "Text Color"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:194
+#: ova-elementor/widgets/ova-menu.php:349
+#: ova-elementor/widgets/ova-menu.php:826
+msgid "Text Color Active"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:181
+#: ova-elementor/widgets/ova-menu.php:336
+#: ova-elementor/widgets/ova-menu.php:813
+msgid "Text Color Hover"
+msgstr ""
+
+#: ova-elementor/widgets/ova_menu_page.php:163
+msgid "Text Hover"
+msgstr ""
+
+#: ova-elementor/widgets/ova-counter-up.php:543
+#: ova-elementor/widgets/ova-counter-up.php:614
+msgid "Text icon "
+msgstr ""
+
+#: ova-elementor/widgets/ova_blog.php:118
+#: ova-elementor/widgets/ova_blog_slide.php:100
+msgid "Text Read More"
+msgstr ""
+
+#: ova-elementor/widgets/ova_menu_page.php:175
+msgid "Text: Background Color"
+msgstr ""
+
+#: ova-elementor/widgets/ova_menu_page.php:186
+msgid "Text: Background Color Hover"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-icon.php:85
+msgid ""
+"There are many of lorem Ipsum, but the majori have suffered alteration in "
+"some form."
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon-transform.php:82
+#: ova-elementor/widgets/ova-list-icon-transform.php:87
+msgid ""
+"There are many variations of but the majority have simply free text suffered."
+msgstr ""
+
+#: ova-elementor/widgets/ova-accordion.php:72
+#: ova-elementor/widgets/ova-accordion.php:76
+#: ova-elementor/widgets/ova-accordion.php:80
+msgid ""
+"There are many variations of passages of available but the majority have "
+"suffered alteration in that some form by words which don’t look even as "
+"slightly believable now."
+msgstr ""
+
+#: ova-elementor/widgets/ova-testimonial.php:114
+#: ova-elementor/widgets/ova-testimonial.php:119
+#: ova-elementor/widgets/ova-testimonial.php:124
+msgid ""
+"There are many variations of passages of lorem ipsum available but the "
+"majority have suffered alteration in some form."
+msgstr ""
+
+#: metabox/class-metabox.php:102 metabox/class-metabox.php:113
+msgid "This value will override value in customizer without Global"
+msgstr ""
+
+#: metabox/class-metabox.php:123 metabox/class-metabox.php:135
+msgid "This value will override value in theme customizer without Global"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:83
+#: ova-elementor/widgets/ova-image-text.php:134
+#: ova-elementor/widgets/ova-image-text.php:188
+#: ova-elementor/widgets/ova-image-text.php:242
+#: ova-elementor/widgets/ova-image-text.php:522
+#: ova-elementor/widgets/ova-testimonial-image.php:153
+#: ova-elementor/widgets/ova-button.php:48
+#: ova-elementor/widgets/ova_give_donation.php:76
+#: ova-elementor/widgets/ova-list-icon-transform.php:59
+#: ova-elementor/widgets/ova-list-icon-transform.php:184
+#: ova-elementor/widgets/ova-heading.php:272
+#: ova-elementor/widgets/ova_progress_bar.php:53
+#: ova-elementor/widgets/ova_blog.php:185
+#: ova-elementor/widgets/ova_blog_slide.php:309
+#: ova-elementor/widgets/ova-accordion.php:50
+#: ova-elementor/widgets/ova-accordion.php:183
+#: ova-elementor/widgets/ova-list-icon.php:75
+#: ova-elementor/widgets/ova-list-icon.php:131
+#: ova-elementor/widgets/ova-list-icon.php:468
+#: ova-elementor/widgets/ova-image-icon.php:74
+#: ova-elementor/widgets/ova-image-icon.php:177
+#: ova-elementor/widgets/ova-image-box.php:231
+msgid "Title"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:150
+msgid "Title Color"
+msgstr ""
+
+#: ova-elementor/widgets/ova-accordion.php:89
+msgid "Title HTML Tag"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:166
+msgid "Title Padding"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:200
+msgid "Title Typo"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:670
+msgid "Toggle Size"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:986
+#: ova-elementor/widgets/ova-image-text.php:1119
+#: ova-elementor/widgets/ova-icon-box.php:287
+#: ova-elementor/widgets/ova-accordion.php:324
+msgid "Top"
+msgstr ""
+
+#: ova-elementor/widgets/ova_contact_info.php:66
+msgid "Type"
+msgstr ""
+
+#: ova-elementor/widgets/ova_menu_page.php:67
+#: ova-elementor/widgets/ova_contact_info.php:70
+msgid "Type 1"
+msgstr ""
+
+#: ova-elementor/widgets/ova_menu_page.php:68
+#: ova-elementor/widgets/ova_contact_info.php:71
+msgid "Type 2"
+msgstr ""
+
+#: ova-elementor/widgets/ova_menu_page.php:69
+#: ova-elementor/widgets/ova_contact_info.php:72
+msgid "Type 3"
+msgstr ""
+
+#: ova-elementor/widgets/ova_contact_info.php:50
+msgid "Type Link"
+msgstr ""
+
+#: ova-elementor/widgets/ova_give_donation.php:242
+#: ova-elementor/widgets/ova_give_donation.php:271
+msgid "Typography"
+msgstr ""
+
+#: ova-elementor/widgets/ova-icon-box.php:59
+msgid "URL Video"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:52
+#: ova-elementor/widgets/ova-testimonial-image.php:52
+#: ova-elementor/widgets/ova-icon-text.php:50
+#: ova-elementor/widgets/ova-testimonial.php:53
+#: ova-elementor/widgets/ova-contact.php:48
+#: ova-elementor/widgets/ova-list-icon.php:49
+#: ova-elementor/widgets/ova-counter-up.php:57
+msgid "Version"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:56
+#: ova-elementor/widgets/ova-testimonial-image.php:56
+#: ova-elementor/widgets/ova-icon-text.php:54
+#: ova-elementor/widgets/ova-testimonial.php:57
+#: ova-elementor/widgets/ova-contact.php:52
+#: ova-elementor/widgets/ova-list-icon.php:53
+#: ova-elementor/widgets/ova-counter-up.php:61
+msgid "Version 1"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:57
+#: ova-elementor/widgets/ova-testimonial-image.php:57
+#: ova-elementor/widgets/ova-icon-text.php:55
+#: ova-elementor/widgets/ova-testimonial.php:58
+#: ova-elementor/widgets/ova-contact.php:53
+#: ova-elementor/widgets/ova-list-icon.php:54
+#: ova-elementor/widgets/ova-counter-up.php:62
+msgid "Version 2"
+msgstr ""
+
+#: ova-elementor/widgets/ova-image-text.php:58
+#: ova-elementor/widgets/ova-testimonial-image.php:58
+#: ova-elementor/widgets/ova-testimonial.php:59
+#: ova-elementor/widgets/ova-list-icon.php:55
+msgid "Version 3"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:83
+msgid "Vertical"
+msgstr ""
+
+#: ova-elementor/widgets/ova_social.php:144
+msgid "View"
+msgstr ""
+
+#: custom-post-type/hf-builder/hf-builder.php:42
+msgid "View Elemmentor"
+msgstr ""
+
+#: ova-elementor/widgets/ova-avatar.php:102
+#: ova-elementor/widgets/ova-avatar.php:104
+#: ova-elementor/widgets/ova-avatar.php:394
+msgid "Volunteer"
+msgstr ""
+
+#: ova-elementor/widgets/ova-list-icon.php:103
+msgid "Water"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:486
+msgid "White"
+msgstr ""
+
+#: ova-elementor/widgets/ova-menu.php:230
+#: ova-elementor/widgets/ova_social.php:254
+#: ova-elementor/widgets/ova-heading.php:202
+#: ova-elementor/widgets/ova-list-icon.php:227
+#: ova-elementor/widgets/ova-image-icon.php:150
+msgid "Width"
+msgstr ""
+
+#: ova-elementor/widgets/ova-icon-box.php:215
+msgid "Width Box"
+msgstr ""
+
+#: metabox/class-metabox.php:134
+msgid "Width of site"
+msgstr ""
+
+#: metabox/class-metabox.php:45
+#: ova-elementor/widgets/ova-testimonial-image.php:328
+#: ova-elementor/widgets/ova-testimonial-image.php:343
+#: ova-elementor/widgets/ova-testimonial-image.php:357
+#: ova-elementor/widgets/ova-testimonial-image.php:394
+#: ova-elementor/widgets/ova-testimonial-image.php:408
+#: ova-elementor/widgets/ova_give_slide2.php:113
+#: ova-elementor/widgets/ova_give_slide2.php:128
+#: ova-elementor/widgets/ova_give_slide2.php:142
+#: ova-elementor/widgets/ova_give_slide2.php:182
+#: ova-elementor/widgets/ova_menu_page.php:81
+#: ova-elementor/widgets/ova-testimonial.php:189
+#: ova-elementor/widgets/ova-testimonial.php:204
+#: ova-elementor/widgets/ova-testimonial.php:218
+#: ova-elementor/widgets/ova-testimonial.php:255
+#: ova-elementor/widgets/ova-testimonial.php:269
+#: ova-elementor/widgets/ova_blog_slide.php:172
+#: ova-elementor/widgets/ova_blog_slide.php:187
+#: ova-elementor/widgets/ova_blog_slide.php:201
+#: ova-elementor/widgets/ova_blog_slide.php:240
+#: ova-elementor/widgets/ova_blog_slide.php:254
+#: ova-elementor/widgets/ova_give_slide.php:149
+#: ova-elementor/widgets/ova_give_slide.php:164
+#: ova-elementor/widgets/ova_give_slide.php:178
+#: ova-elementor/widgets/ova_give_slide.php:217
+#: ova-elementor/widgets/ova_give_slide.php:231
+msgid "Yes"
+msgstr ""
+
+#: ova-elementor/widgets/ova-header.php:124
+msgid "You can add background image in Advanced Tab"
+msgstr ""

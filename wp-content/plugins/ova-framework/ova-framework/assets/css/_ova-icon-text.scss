@@ -1,0 +1,90 @@
+//css icon text
+
+.ova-icon-text {
+    position: relative;
+    display: block;
+    height: 193px;
+    width: 193px;
+    background-color: #fff;
+    border-radius: 50%;
+    box-shadow: 0px 5px 30px 0px rgba(0,0,0,.1);
+
+    &:before {
+	    content: '';
+	    width: 25px;
+	    height: 25px;
+	    background-color: #fff;
+	    clip-path: polygon(0 0, 0% 100%, 100% 100%);
+	    position: absolute;
+	    bottom: 13px;
+	    right: 25px;
+	    transform: rotate(-85deg);
+    }
+
+    .text-box {
+    	position: absolute;
+	    top: 50%;
+	    left: 50%;
+	    transform: translateY(-50%) translateX(-50%);
+
+	    p {
+	    	font-size: 30px;
+		    color: #2c2734;
+		    margin: 0;
+	    }
+    }
+
+    .icon-box {
+    	position: absolute;
+	    top: -30px;
+	    right: -30px;
+	    height: 106px;
+	    width: 106px;
+	    background: #ff6d12;
+	    border-radius: 50%;
+	    color: #fff;
+	    font-size: 55px;
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;
+    }
+}
+
+.ova-icon-text-v2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 700px;
+
+    @media only screen and (max-width: 767px) {
+	    flex-direction: column;
+	    justify-content: center;
+	    text-align: center;
+	}
+
+    .text-box-v2 {
+    	@media only screen and (max-width: 767px) {
+		    margin-bottom: 20px;
+		}
+
+    	h3 {
+    		margin: 0;
+		    font-size: 34px;
+		    font-weight: 300;
+		    line-height: 46px;
+		    color: #fff;
+    	}
+    }
+
+    .icon-box-v2 {
+	    height: 125px;
+	    width: 125px;
+	    background-color: #ff9d00;
+	    font-size: 65px;
+	    color: #fff;
+	    border-radius: 8px;
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;
+    }
+}

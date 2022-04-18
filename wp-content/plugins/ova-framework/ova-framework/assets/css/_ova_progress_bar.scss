@@ -1,0 +1,31 @@
+.ova_progress_bar{
+         .title_per{
+         	font-weight: 500;
+         	font-size: 18px;
+         	color: #2c2734;
+         	margin-bottom: 5px;
+         }
+
+
+		.progress {
+						height: 9px;
+						background-color: #eae5e3;
+						position: relative;
+						z-index: 10;
+						overflow: visible;
+						border-radius: 20px;
+						
+						.percentage {
+							font-size: 16px;
+							color: #88858e !important;
+							position: absolute;
+							top: -35px;
+							right: -20px;
+							z-index: 777;
+							transition: .3s all ease;
+							background-color: transparent;
+
+						}
+					}
+
+}

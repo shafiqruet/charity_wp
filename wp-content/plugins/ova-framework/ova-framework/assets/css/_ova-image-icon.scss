@@ -1,0 +1,92 @@
+//css list image icon
+
+.image-icon {
+
+	&:hover {
+		.image-icon-title {
+			.image-icon {
+				span {
+					transform: scale(1.2);
+				}
+			}
+		}
+	}
+
+	.image-icon-title {
+		display: flex;
+		align-items: center;
+		margin-bottom: 20px;
+
+		.image-icon {
+			position: relative;
+
+			span {
+				position: absolute;
+				font-size: 45px;
+				display: inline-block;
+				line-height: 45px;
+				z-index: 2;
+				color: #ff6d12;
+			    transition: all 200ms linear;
+			    transition-delay: 0.1s;
+			    left: 30px;
+    			top: 30px;
+			}
+
+			.image-box {
+				 img {
+
+				 }
+			}
+		}
+
+		.title {
+			margin-left: 30px;
+			font-size: 20px;
+			font-weight: 500;
+			color: #2c2734;
+			line-height: 30px;
+			text-align: left;
+		}
+	}
+
+	.text {
+		font-size: 18px;
+		color: #88858e;
+		font-weight: 400;
+		line-height: 34px;
+		margin: 0;
+	}
+}
+
+@media (min-width: 767px) and ( max-width: 1024px ){
+	.ipad_fix{
+
+		.image-icon {
+			.image-icon-title{
+				display: block;	
+				.title{
+					text-align: center;
+					margin-left: 0;
+				}
+				.image-icon span{
+					left: 50%;
+					    top: 50%;
+					    margin-top: -20px;
+					    margin-left: -20px;
+					}
+				
+			}
+
+			.image-box{
+				text-align: center;	
+			}
+
+			.text{
+				text-align: center;
+			}
+			
+		}
+		
+	}
+}

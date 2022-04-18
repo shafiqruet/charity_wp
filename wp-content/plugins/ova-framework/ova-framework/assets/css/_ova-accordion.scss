@@ -1,0 +1,92 @@
+//Css accordion
+#icon, #icon_active {
+	display: none;
+}
+
+.ova-accordion {
+
+	.accordion-items {
+		display: block;
+		cursor: pointer;
+		margin-bottom: 20px;
+
+		#acc-active {
+			background-color: #ff6d12;
+			-webkit-transition: all 500ms ease;
+			transition: all 500ms ease;
+			
+			.accordion-title {
+				color: #fff;
+				-webkit-transition: all 500ms ease;
+				transition: all 500ms ease;
+			}
+
+			span {
+				color: #fff;
+				-webkit-transition: all 500ms ease;
+				transition: all 500ms ease;
+			}
+		}
+
+		.accordion-header {
+			background-color: #fff;
+			padding: 25px 30px 24px;
+			border: 1px solid #eae5e3;
+			border-radius: 35px;
+			position: relative;
+			-webkit-transition: all 500ms ease;
+			transition: all 500ms ease;
+
+			.accordion-title {
+				margin: 0;
+				margin-right: 20px;
+				color: #2c2734;
+				line-height: 16px;
+				font-size: 16px;
+				font-weight: 500;
+				-webkit-transition: all 500ms ease;
+				transition: all 500ms ease;
+			}
+
+			span {
+				font-size: 24px;
+				color: #ff6d12;
+				position: absolute;
+				right: 30px;
+				top: 20px;
+				-webkit-transition: all 500ms ease;
+				transition: all 500ms ease;
+			}
+		}
+
+		.accordion-body {
+			display: none;
+
+			.accordion-content {
+				color: #88858e;
+				font-size: 18px;
+				font-weight: 400;
+				margin: 0;
+				padding: 20px 0 5px 30px;
+			}
+		}
+
+		&:nth-child(2) {
+			.accordion-body {
+				display: block;
+			}
+		}
+	}
+
+	#icon-left {
+		.accordion-header {
+			.accordion-title {
+				margin: 0 30px 0;
+			}
+
+			span {
+				left: 30px;
+			}
+		}
+	}
+}

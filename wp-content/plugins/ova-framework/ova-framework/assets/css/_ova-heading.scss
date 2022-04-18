@@ -1,0 +1,44 @@
+.ova-heading {
+	text-align: left;
+	margin-bottom: 40px;
+	.sub_title{
+		font-size: 30px;
+		line-height: 40px;
+		font-weight: 400;
+		display: inline-block;
+		margin: 0;
+	}
+	.title {
+		font-size: 50px;
+		line-height: 60px;
+		font-weight: 400;
+		color: #2c2734;
+		margin: 0;
+		margin-bottom: 40px;
+
+		@media only screen and (max-width: 500px) {
+		    font-size: 43px;
+			line-height: 50px;
+		}
+	}
+	.desc {
+		margin: 0;
+		font-size: 18px;
+		line-height: 34px;
+		color: #88858e;
+		font-weight: 400;
+	}
+}
+
+#ova-heading {
+	.ova-heading {
+		@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+			padding: 30px 0 30px;
+
+		    h2 {
+		    	font-size: 38px;
+		    }
+		}
+	}
+}
